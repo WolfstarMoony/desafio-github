@@ -1,6 +1,3 @@
-## $\color{#ffffff}\colorbox{#521E1E}{Grandes Nomes da tecnologia}$
-
-
 
 ## Grace Murray Hooper
 
