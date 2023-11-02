@@ -12,7 +12,7 @@
 
 ## Joseph Carl Robnett Licklider
 
----
+--------
 
 - Licklider foi um **pioneiro na pesquisa de Interação Humano-Computador (IHC)**, acreditando que os computadores poderiam ser usados para melhorar a colaboração e a interação entre humanos e máquinas.
 - Ele desempenhou um **papel importante no desenvolvimento da ARPANET**, a precursora da internet moderna. Suas ideias sobre redes de computadores distribuídos ajudaram a moldar a evolução da internet.
