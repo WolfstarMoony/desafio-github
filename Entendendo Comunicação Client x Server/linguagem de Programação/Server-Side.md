@@ -1,0 +1,10 @@
+Uma linguagem server-side é uma linguagem de programação projetada para ser executada no servidor de um sistema cliente-servidor. Essas linguagens são usadas para desenvolver a lógica de negócios, manipular dados, processar solicitações do cliente e gerar respostas dinâmicas que são enviadas de volta para os clientes, como navegadores da web.
+
+As linguagens server-side desempenham um papel crucial no desenvolvimento de aplicativos web, onde a lógica do lado do servidor é responsável por lidar com operações que não podem ou não devem ser realizadas no lado do cliente. Alguns exemplos comuns de linguagens server-side incluem:
+
+1. PHP: Uma linguagem de script amplamente utilizada para desenvolvimento web, especialmente em combinação com o banco de dados MySQL. O PHP é conhecido por sua capacidade de incorporar código diretamente em páginas HTML.
+2. Python (com frameworks como Django e Flask): Python é uma linguagem versátil usada para desenvolvimento web, e os frameworks como Django e Flask simplificam a criação de aplicativos web server-side.
+3. **Ruby (com o framework Ruby on Rails):** Ruby é outra linguagem popular para desenvolvimento web, e o framework Ruby on Rails é conhecido por sua produtividade e simplicidade.
+4. **Java (com frameworks como Spring e Java EE):** Java é amplamente utilizado no desenvolvimento de aplicativos empresariais e web. Frameworks como Spring e Java EE fornecem estruturas robustas para aplicativos server-side.
+5. **C# (com o framework ASP.NET):** C# é usado para desenvolver aplicativos web em conjunto com o framework ASP.NET, principalmente na plataforma Microsoft.
+6. **Node.js**: Embora seja JavaScript, o Node.js permite que você execute JavaScript no servidor, o que o torna adequado para aplicativos web server-side, particularmente aqueles que requerem alta concorrência.
