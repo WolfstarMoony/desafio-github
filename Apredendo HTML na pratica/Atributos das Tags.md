@@ -1,5 +1,5 @@
 
-`**<strong id="">`** : O atributo **`id`** é usado para identificar exclusivamente um elemento HTML em uma página da web.
+**`<strong id="">`** : O atributo **`id`** é usado para identificar exclusivamente um elemento HTML em uma página da web.
 
 **`<strong style="color blue;">`** : Isso é uma maneira de aplicar estilos diretamente ao elemento. nesse exemplo significa que será exibido em negrito e na cor azul.
 
