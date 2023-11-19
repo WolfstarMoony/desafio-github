@@ -1,0 +1,1 @@
+A tag **`embed`** é usada para incorporar um recurso externo em um documento HTML. O recurso pode ser um aplicativo, um arquivo de áudio, um vídeo ou outro tipo de conteúdo.
